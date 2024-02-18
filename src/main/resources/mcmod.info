@@ -1,0 +1,18 @@
+[
+  {
+    "modid": "chromaticityblock",
+    "name": "Chromaticity Block",
+    "description": "Chromaticity Block",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "https://github.com/Yancey666/ChromaticityBlock-forge",
+    "updateUrl": "",
+    "authorList": [
+      "Yancey"
+    ],
+    "credits": "MIT",
+    "logoFile": "assets/icon.png",
+    "screenshots": [],
+    "dependencies": []
+  }
+]

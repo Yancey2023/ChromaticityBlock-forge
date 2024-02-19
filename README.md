@@ -4,7 +4,7 @@ English | [简体中文](README_CN.md)
 
 This mod adds chromaticity block, whose rendering is not affected by lighting, making it particularly suitable for convenient chromaticity cutouts.
 
-In addition to the commonly used colors in creative tab, you can get any color through NBT.
+Supported minecraft versions: `1.12.2-forge`，`1.16.5-fabric`，`1.20.4-fabric`
 
 ![icon.png](img/icon.png)
 
